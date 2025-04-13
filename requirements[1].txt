@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+pdf2image
+pytesseract
+Pillow
+PyMuPDF
+opencv-python
+PyPDF2
